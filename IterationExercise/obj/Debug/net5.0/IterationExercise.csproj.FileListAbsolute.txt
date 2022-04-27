@@ -1,0 +1,16 @@
+C:\repos\IterationExercise\IterationExercise\bin\Debug\net5.0\IterationExercise.exe
+C:\repos\IterationExercise\IterationExercise\bin\Debug\net5.0\IterationExercise.deps.json
+C:\repos\IterationExercise\IterationExercise\bin\Debug\net5.0\IterationExercise.runtimeconfig.json
+C:\repos\IterationExercise\IterationExercise\bin\Debug\net5.0\IterationExercise.runtimeconfig.dev.json
+C:\repos\IterationExercise\IterationExercise\bin\Debug\net5.0\IterationExercise.dll
+C:\repos\IterationExercise\IterationExercise\bin\Debug\net5.0\IterationExercise.pdb
+C:\repos\IterationExercise\IterationExercise\obj\Debug\net5.0\IterationExercise.csproj.AssemblyReference.cache
+C:\repos\IterationExercise\IterationExercise\obj\Debug\net5.0\IterationExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\IterationExercise\IterationExercise\obj\Debug\net5.0\IterationExercise.AssemblyInfoInputs.cache
+C:\repos\IterationExercise\IterationExercise\obj\Debug\net5.0\IterationExercise.AssemblyInfo.cs
+C:\repos\IterationExercise\IterationExercise\obj\Debug\net5.0\IterationExercise.csproj.CoreCompileInputs.cache
+C:\repos\IterationExercise\IterationExercise\obj\Debug\net5.0\IterationExercise.dll
+C:\repos\IterationExercise\IterationExercise\obj\Debug\net5.0\refint\IterationExercise.dll
+C:\repos\IterationExercise\IterationExercise\obj\Debug\net5.0\IterationExercise.pdb
+C:\repos\IterationExercise\IterationExercise\obj\Debug\net5.0\IterationExercise.genruntimeconfig.cache
+C:\repos\IterationExercise\IterationExercise\obj\Debug\net5.0\ref\IterationExercise.dll
